@@ -140,7 +140,11 @@ Route::get("client/events", "App\Http\Controllers\FrontEndController@clientGetEv
 
 
 
-Route::get('/', 'App\Http\Controllers\FrontEndController@home')->name('home');
+Route::get('/test', 'App\Http\Controllers\FrontEndController@home')->name('home');
+Route::get('/', function () {
+    return view('welcome to the home page');
+});
+
 
 // ck file upload
 
