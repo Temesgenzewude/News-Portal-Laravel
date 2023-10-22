@@ -17,6 +17,12 @@ use Illuminate\Support\Facades\Route;
 
 
 
+Route::get('/test', 'App\Http\Controllers\FrontEndController@home')->name('home');
+Route::get('/', function () {
+    return view('welcome to the home page');
+});
+
+
 // for settings
 // group routes middleware
 // admin only routes
@@ -140,10 +146,7 @@ Route::get("client/events", "App\Http\Controllers\FrontEndController@clientGetEv
 
 
 
-Route::get('/test', 'App\Http\Controllers\FrontEndController@home')->name('home');
-Route::get('/', function () {
-    return view('welcome to the home page');
-});
+
 
 
 // ck file upload
