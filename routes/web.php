@@ -17,10 +17,10 @@ use Illuminate\Support\Facades\Route;
 
 
 
-Route::get('/test', 'App\Http\Controllers\FrontEndController@home')->name('home');
-Route::get('/', function () {
-    return view('welcome to the home page');
-});
+// Route::get('/test', 'App\Http\Controllers\FrontEndController@home')->name('home');
+// Route::get('/', function () {
+//     return view('welcome to the home page');
+// });
 
 
 // for settings
@@ -124,7 +124,7 @@ Route::middleware(['auth', 'adminOrWriter'])->group(function () {
 // auth routes
 Auth::routes();
 
-//Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 
 //pages

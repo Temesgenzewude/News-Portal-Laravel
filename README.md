@@ -56,3 +56,28 @@ What I have learned while building this project:
     Laravel Application structure
     Laravel MVC Architecture
     Laravel Models, Controllers, Routes, Views, among others
+
+## Demo Vide
+
+![Watch the Demo Video 1](<public/client/assets/images/screenshots/demo1.mp4>) 
+
+![Watch the Demo Video 2](<public/client/assets/images/screenshots/demo2.mp4>) 
+
+
+## Demo Screenshots
+
+![Screenshot 1](<public/client/assets/images/screenshots/1.png>) 
+![Screenshot 2](<public/client/assets/images/screenshots/2.png>) 
+![Screenshot 3](<public/client/assets/images/screenshots/3.png>) 
+![Screenshot 4](<public/client/assets/images/screenshots/4.png>) 
+![Screenshot 5](<public/client/assets/images/screenshots/5.png>) 
+![Screenshot 6](<public/client/assets/images/screenshots/6.png>) 
+![Screenshot 7](<public/client/assets/images/screenshots/7.png>) 
+![Screenshot 8](<public/client/assets/images/screenshots/8.png>) 
+![Screenshot 9](<public/client/assets/images/screenshots/9.png>) 
+![Screenshot 10](<public/client/assets/images/screenshots/10.png>) 
+![Screenshot 11](<public/client/assets/images/screenshots/11.png>) 
+![Screenshot 12](<public/client/assets/images/screenshots/12.png>) 
+![Screenshot 13](<public/client/assets/images/screenshots/13.png>) 
+![Screenshot 14](<public/client/assets/images/screenshots/14.png>) 
+![Screenshot 15](<public/client/assets/images/screenshots/15.png>) 
